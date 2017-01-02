@@ -13,18 +13,18 @@ ID - the dataset/file the data originates from
 complete.R
 <i>Returns the amount of complete cases in a dataset</i>
 
-corr.R
+<b>corr.R</b>
 <i>Returns a vector of correlations for datasets where number of complete datapoints are over the threshold</i>
 
-extractComplete.R
+<b>extractComplete.R</b>
 <i>Extracts complete cases of specified data-set</i>
 
-findData.R
+<b>findData.R</b>
 <i>Returns dataset of specified ID</i>
 
-loadAllFiles.R
+<b>loadAllFiles.R</b>
 <i>Returns a dataframe of all files of the correct format in a directory (only supports CSV format)</i>
 
-pollutantmean.R
+<b>pollutantmean.R</b>
 <i>Returns the Mean of a pullutant type accross a certain directory, ignoring NA values</i>
 
